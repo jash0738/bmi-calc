@@ -1,0 +1,44 @@
+[
+    {
+        "age": 19,
+        "gender": "Male",
+        "height": 165.0,
+        "weight": 68.0,
+        "bmi": 24.98
+    },
+    {
+        "age": 19,
+        "gender": "Male",
+        "height": 193.0,
+        "weight": 105.0,
+        "bmi": 28.19
+    },
+    {
+        "age": 19,
+        "gender": "Male",
+        "height": 165.0,
+        "weight": 68.0,
+        "bmi": 24.98
+    },
+    {
+        "age": 19,
+        "gender": "Male",
+        "height": 175.0,
+        "weight": 90.0,
+        "bmi": 29.39
+    },
+    {
+        "age": 19,
+        "gender": "Male",
+        "height": 165.0,
+        "weight": 68.0,
+        "bmi": 24.98
+    },
+    {
+        "age": 19,
+        "gender": "Male",
+        "height": 165.0,
+        "weight": 68.0,
+        "bmi": 24.98
+    }
+]
